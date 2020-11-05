@@ -1,0 +1,11 @@
+name: kartothek-demo
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - storefact
+  - graphviz
+  - kartothek
+  - jupyterlab
+  - python-graphviz
+  - turbodbc

@@ -127,3 +127,11 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+# Kartothek output
+coiled_demo/*
+# Graphvix output
+*.png
+*.gv
+*.svg
